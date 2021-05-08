@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">GuruKul</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="logout_msg">Are You Sure?\n Click on YES to Logout\n OR\n Click on NO to Go Back</string>
+    <string-array name="counts">
+        <item name="1">aman</item>
+        <item name="2">anita</item>
+        <item name="3">sam</item>
+        <item name="4">merry</item>
+        <item name="1">aman</item>
+        <item name="2">anita</item>
+        <item name="3">sam</item>
+        <item name="4">merry</item>
+    </string-array>
+    <string-array name="numbers">
+        <item name="1">1.</item>
+        <item name="2">2.</item>
+        <item name="3">3.</item>
+        <item name="4">4.</item>
+        <item name="1">5.</item>
+        <item name="2">6.</item>
+        <item name="3">7.</item>
+        <item name="4">8.</item>
+        <item name="1">9.</item>
+        <item name="2">10.</item>
+        <item name="3">11.</item>
+        <item name="4">12.</item>
+        <item name="1">13.</item>
+        <item name="2">14.</item>
+        <item name="3">15.</item>
+        <item name="4">16.</item>
+        <item name="1">17.</item>
+        <item name="2">18.</item>
+        <item name="3">19.</item>
+        <item name="4">20.</item>
+        <item name="1">21.</item>
+        <item name="2">22.</item>
+        <item name="3">23.</item>
+        <item name="4">24.</item>
+        <item name="1">25.</item>
+        <item name="2">26.</item>
+        <item name="3">27.</item>
+        <item name="4">28.</item>
+        <item name="1">29.</item>
+        <item name="2">30.</item>
+        <item name="3">31.</item>
+    </string-array>
+    <string-array name="notice_details">
+        <item name="summer">maths</item>
+        <item name="winter">science</item>
+        <item name="autumn">computer</item>
+        <item name="spring">accounts</item>
+        <item name="summer">maths</item>
+        <item name="winter">science</item>
+        <item name="autumn">computer</item>
+        <item name="spring">accounts</item>
+        <item name="summer">maths</item>
+        <item name="winter">science</item>
+        <item name="autumn">computer</item>
+        <item name="spring">accounts</item>
+        <item name="summer">maths</item>
+        <item name="winter">science</item>
+        <item name="autumn">computer</item>
+        <item name="spring">accounts</item>
+    </string-array>
+</resources>

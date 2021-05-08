@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148582419680",
+    "firebase_url": "https://gurukul-f0593.firebaseio.com",
+    "project_id": "gurukul-f0593",
+    "storage_bucket": "gurukul-f0593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148582419680:android:74df1f2575477c36401485",
+        "android_client_info": {
+          "package_name": "com.gurukul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148582419680-i6s5kkhmokcdsvveum6ev830v5anahi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKPpZUyLHk8bYygVTva8uW5wUbExvX4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148582419680-i6s5kkhmokcdsvveum6ev830v5anahi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
